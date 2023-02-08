@@ -1,2 +1,3 @@
 My first readme
-programming
+programming is cool !
+
